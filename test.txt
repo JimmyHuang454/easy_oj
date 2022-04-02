@@ -1,0 +1,54 @@
+[
+4
+SCAU
+Fres
+hman
+Race
+6
+clockwise_rotation 1
+print_it!
+left_shift 2
+print_it!
+upper_shift 3
+print_it!
+]
+{
+rHfs
+Arec
+Cmaa
+ENSu
+rHfs
+RECa
+Cmaa
+ENSu
+rHcs
+REAa
+Cmsa
+ENFu
+}
+==
+[
+1
+a
+2
+clockwise_rotation 1
+print_it!
+]
+{
+A
+}
+==
+[
+3
+SCA
+Frs
+hmn
+2
+clockwise_rotation 1
+print_it!
+]
+{
+Hfs
+Mrc
+NSa
+}

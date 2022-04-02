@@ -1,0 +1,14 @@
+[{
+  "input": ["4",
+    "SCAU",
+    "Fres",
+    "hman",
+    "Race",
+    "4",
+    "clockwise_rotation 1",
+    "print_it!",
+    "left_shift 2",
+    "print_it!"
+  ],
+  "expect": []
+}]
