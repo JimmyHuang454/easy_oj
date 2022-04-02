@@ -9,8 +9,9 @@
 ## 例子
 
 ```cpp
-#include <iostream>
+// 判断字符串内是否包含 “Hello World”
 
+#include <iostream>
 using namespace std;
 
 string str;
@@ -26,6 +27,7 @@ int main(void) {
 }
 ```
 
+[] 内的是输入内容，允许多行。{} 是期望的输出结果。
 ```txt
 [
 abcdef
